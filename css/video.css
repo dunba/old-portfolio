@@ -1,0 +1,25 @@
+/*videos in body*/
+.video {
+  float: right;
+  width: 80%;
+  background-color: whitesmoke;
+  display: grid;
+  border: 2px;
+  position: relative;
+  grid-gap: 10px;
+  float: right;
+  justify-items: center;
+  justify-content: center;
+  top: 50px;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 80%;
+  font-weight: bold;
+}
+span {
+  font-family: Helvetica;
+  font-size: 80%;
+  font-weight: lighter;
+}
